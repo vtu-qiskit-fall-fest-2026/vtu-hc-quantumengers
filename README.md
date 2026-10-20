@@ -307,6 +307,6 @@ Released under the [MIT License](LICENSE). See `LICENSE` for details.
 **Quantumengers** · Team ID `VTU-QFF-HC-0180` · Tier `Online`
 · Built with ⚛️ Qiskit for the VTU-QFF Hackathon
 
-[⬆ Back to Top](#Quantumengers)
+[⬆ Back to Top](#quantumengers)
 
 </div>
